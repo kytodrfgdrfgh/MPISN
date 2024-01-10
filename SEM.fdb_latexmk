@@ -1,8 +1,8 @@
 # Fdb version 4
-["pdflatex"] 1704906008 "e:/WIN_FOLDERS/DOCS/REPOS/lect_6/Nav/SEM.tex" "SEM.pdf" "SEM" 1704906013 0
-  "SEM.aux" 1704906013 43603 751428015ab9f1fc10d6f1924f33b85b "pdflatex"
-  "SEM.tex" 1704906002 80784 8d51b80c139d119acf8e54532e28b77a ""
-  "SEM.toc" 1704906013 5749 b1c21a6cc0df95b77659a279377d3b34 "pdflatex"
+["pdflatex"] 1704909663 "e:/WIN_FOLDERS/DOCS/REPOS/lect_6/Nav/SEM.tex" "SEM.pdf" "SEM" 1704909671 0
+  "SEM.aux" 1704909671 43603 751428015ab9f1fc10d6f1924f33b85b "pdflatex"
+  "SEM.tex" 1704909660 80782 1709a898c85f043117aa97823e443933 ""
+  "SEM.toc" 1704909671 5749 b1c21a6cc0df95b77659a279377d3b34 "pdflatex"
   "c:/Users/Jerry/.texlive2022/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1662321223 3304 6a543c07045572737981351171e0505e ""
   "c:/Users/Jerry/.texlive2022/texmf-var/fonts/tfm/lh/lh-t2a/labx2074.tfm" 1662321213 3316 0992aa03d0c75498a0b6fb905d9eaab6 ""
   "c:/Users/Jerry/.texlive2022/texmf-var/fonts/tfm/lh/lh-t2a/labx3583.tfm" 1662406841 3312 57735bf4ab518de5d2a8cf9cdbe7ba91 ""
@@ -267,7 +267,7 @@
   "e:/Programs/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1670458990 4662795 31a79fe6bb109a2c8ba7bcd05dae2dc3 ""
   "e:/Programs/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1670459162 3063415 93cbc6c38c8aa2cd1207d849ae33f6b0 ""
   "e:/Programs/texlive/2022/texmf.cnf" 1670458956 713 614551405fc44b98efbf516466e3c909 ""
-  "e:/WIN_FOLDERS/DOCS/REPOS/lect_6/Nav/SEM.tex" 1704906002 80784 8d51b80c139d119acf8e54532e28b77a ""
+  "e:/WIN_FOLDERS/DOCS/REPOS/lect_6/Nav/SEM.tex" 1704909660 80782 1709a898c85f043117aa97823e443933 ""
   "imgs/1.jpg" 1704583125 92489 25f342a2a2cd63dc987b71d305ad49c9 ""
   "imgs/10.jpg" 1704809854 163057 b74a6aa7097cfb488c6b45a215664f33 ""
   "imgs/2.jpg" 1704583752 28345 50b1db05106c17970fa373e5d502e802 ""
