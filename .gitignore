@@ -303,3 +303,4 @@ TSWLatexianTemp*
 *.ps
 *.pdf
 
+*.tmp.*
